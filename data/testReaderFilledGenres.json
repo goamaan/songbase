@@ -1,0 +1,58 @@
+{
+  "Pop": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "Rock": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "Jazz": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "Hip-hop": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "Country": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "Electronic": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "R&B": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }],
+  "Other": [{
+    "artist": "test",
+    "name": "test",
+    "genre": "test",
+    "user": "admin",
+    "url": ""
+  }]
+}

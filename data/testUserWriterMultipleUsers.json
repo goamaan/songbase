@@ -1,0 +1,12 @@
+{"users": [
+  {
+    "salt": "47f81de2daed41529cc468c1c7eeed17",
+    "hashedPassword": "7f508db77514d87ecf3dbd16992239f93edf8ef8",
+    "username": "abcde"
+  },
+  {
+    "salt": "b07fb125ae494ade8f4555ecd0669529",
+    "hashedPassword": "e9053004c13d27fce69643f312b30b0e9d2bee7b",
+    "username": "abcde2"
+  }
+]}

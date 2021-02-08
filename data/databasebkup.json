@@ -1,0 +1,58 @@
+{
+  "Pop": [{
+    "artist": "Brockhampton",
+    "name": "SUGAR",
+    "genre": "HipHop/Pop",
+    "user": "amaan",
+    "url": ""
+  }],
+  "Rock": [{
+    "artist": "Brockhampton",
+    "name": "QUIVER",
+    "genre": "HipHop/Rock",
+    "user": "admin",
+    "url": ""
+  }],
+  "Jazz": [{
+    "artist": "Mac Ayres",
+    "name": "Better",
+    "genre": "Jazz/RNB",
+    "user": "amaan",
+    "url": ""
+  }],
+  "Hip-hop": [{
+    "artist": "Brockhampton",
+    "name": "BLEACH",
+    "genre": "HipHop/Rap",
+    "user": "admin",
+    "url": ""
+  }],
+  "Country": [{
+    "artist": "lolno",
+    "name": "ew country",
+    "genre": "boo",
+    "user": "amaan",
+    "url": ""
+  }],
+  "Electronic": [{
+    "artist": "Brockhampton",
+    "name": "BLEACH2",
+    "genre": "HipHop/Rap",
+    "user": "admin",
+    "url": ""
+  }],
+  "R&B": [{
+    "artist": "Brockhampton",
+    "name": "SWIM",
+    "genre": "HipHop/RNB",
+    "user": "amaan",
+    "url": ""
+  }],
+  "Other": [{
+    "artist": "Brockhampton",
+    "name": "BLEACH3",
+    "genre": "HipHop/Rap",
+    "user": "admin",
+    "url": ""
+  }]
+}

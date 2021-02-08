@@ -1,0 +1,27 @@
+{"users": [
+  {
+    "salt": "bbaffa58bfa7461d8ca52237fd1201a4",
+    "hashedPassword": "2d8fb307af696f1ed4f9ed5ae88fe0f4c3e0a8cd",
+    "username": "abcde"
+  },
+  {
+    "salt": "4b043c291a58462393850845c6be2a5a",
+    "hashedPassword": "222c92ea86926298f42dbd66f4c0d98747353f70",
+    "username": "abcde2"
+  },
+  {
+    "salt": "4b043c291a58462393850845c6be2a5a",
+    "hashedPassword": "222c92ea86926298f42dbd66f4c0d98747353f70",
+    "username": "abcde3"
+  },
+  {
+    "salt": "4b043c291a58462393850845c6be2a5a",
+    "hashedPassword": "222c92ea86926298f42dbd66f4c0d98747353f70",
+    "username": "abcde4"
+  },
+  {
+    "salt": "4b043c291a58462393850845c6be2a5a",
+    "hashedPassword": "222c92ea86926298f42dbd66f4c0d98747353f70",
+    "username": "abcde5"
+  }
+]}
